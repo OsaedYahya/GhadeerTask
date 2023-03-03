@@ -53,5 +53,5 @@ Start the server
 
 
 ## Screenshots
-![img1](https://user-images.githubusercontent.com/69788216/222637888-6ac8bb8c-a5b2-4358-93cc-8528a24628f1.jpeg)
-![img2](https://user-images.githubusercontent.com/69788216/222637895-f0c5fdd5-83c9-4430-9dd1-0e9ab955e478.jpeg)
+<img src="https://user-images.githubusercontent.com/69788216/222637888-6ac8bb8c-a5b2-4358-93cc-8528a24628f1.jpeg" width="40%" height="40%">
+<img src="https://user-images.githubusercontent.com/69788216/222637895-f0c5fdd5-83c9-4430-9dd1-0e9ab955e478.jpeg" width="40%" height="40%">
