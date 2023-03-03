@@ -1,15 +1,8 @@
 
 # Ghadeer Future Accelerators Task
 
-Supports iOS & Android.
-
-To run the project -
-
-npm start
-Start Xcode simulator for iOS simulator and virtual device in Android Studio for android simulator.
-
-Press i to run on iOS simulator and a for android.
-
+This is a React-Native application created with Expo-cli for listing random posts.
+The user is able to create a new post with a title and a body, or update the already loaded posts
 
 
 ## Preview
@@ -17,7 +10,9 @@ Press i to run on iOS simulator and a for android.
 Preview
 
 Open the camera app on your device and scan the code below
+
 ![N|Solid](https://qr.expo.dev/expo-go?owner=osaed&slug=Task&releaseChannel=default&host=exp.host)
+
 In Expo App: https://expo.dev/@osaed/Task
 
 Or, open this link on your device: exp://exp.host/@osaed/Task
